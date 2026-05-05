@@ -13,7 +13,7 @@ This toolkit provides scripts to efficiently manage the PR review cycle:
 ## Installation
 
 ```bash
-git clone https://github.com/harivansh-afk/auto-review-check.git
+git clone https://git.harivan.sh/harivansh-afk/auto-review-check.git
 cd auto-review-check
 chmod +x scripts/*.sh
 ```
